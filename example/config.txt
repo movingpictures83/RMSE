@@ -1,0 +1,2 @@
+Prefix plugins/RMSE/example/
+Plugin RMSE inputfile parameters.txt outputfile none
